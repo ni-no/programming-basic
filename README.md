@@ -15,15 +15,15 @@
 - Hangouts: 配布資料
 - Answer: 解答例
 
-HangoutsとAnswerは言語ごとに分かれてる．
+HandoutsとAnswersは言語ごとに分かれてる．
 
 ## 問題一覧
-- 01-FizzBuzz
-- 02-ColorCircle(*)
-- 03-Tsurukame
-	- 03-1-Tsurukame1
-	- 03-2-Tsurukame2
-	- 03-3-Tsurukame3
+- [01-FizzBuzz](https://github.com/ni-no/programming-basic/tree/master/01-FizzBuzz)
+- [02-ColorCircle](https://github.com/ni-no/programming-basic/tree/master/02-ColorCircle)(*)
+- [03-Tsurukame](https://github.com/ni-no/programming-basic/tree/master/03-Tsurukames)
+	- [03-1-Tsurukame1](https://github.com/ni-no/programming-basic/tree/master/03-Tsurukames/03-1-Tsurukame1)
+	- [03-2-Tsurukame2](https://github.com/ni-no/programming-basic/tree/master/03-Tsurukames/03-2-Tsurukame2)
+	- [03-3-Tsurukame3](https://github.com/ni-no/programming-basic/tree/master/03-Tsurukames/03-3-Tsurukame3)
 - 04-Kuku
 - 05-Calenders
 	- 05-1-Calender1
