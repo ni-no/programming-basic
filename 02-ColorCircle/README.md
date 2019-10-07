@@ -11,6 +11,8 @@
 
 ## 必要知識
 - `if/else`
+- `多重for`
+- `or演算子`
 
 ## 出力例
 ![example](example.png)
