@@ -4,6 +4,8 @@
 ## 必要知識
 - `if/else`
 - `for/while`
+- 関数
+- (ライブラリ)
 
 ## 問題一覧
 - 03-1-Tsurukame1
