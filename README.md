@@ -25,7 +25,7 @@ HandoutsとAnswersは言語ごとに分かれています．
 	- [03-1-Tsurukame1](https://github.com/ni-no/programming-basic/tree/master/03-Tsurukames/03-1-Tsurukame1)
 	- [03-2-Tsurukame2](https://github.com/ni-no/programming-basic/tree/master/03-Tsurukames/03-2-Tsurukame2)
 	- [03-3-Tsurukame3](https://github.com/ni-no/programming-basic/tree/master/03-Tsurukames/03-3-Tsurukame3)
-- 04-Kuku
+- [04-Kuku](https://github.com/ni-no/programming-basic/tree/master/04-Kuku)
 - 05-Calenders
 	- 05-1-Calender1
 	- 05-2-Calender2
