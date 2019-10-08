@@ -15,7 +15,8 @@
 - Hangouts: 配布資料
 - Answer: 解答例
 
-HandoutsとAnswersは言語ごとに分かれてる．
+HandoutsとAnswersは言語ごとに分かれています．  
+コメントアウトに関してはJavaScriptはjsdoc，PythonはdocString(Google記法)に合わせています.  
 
 ## 問題一覧
 - [01-FizzBuzz](https://github.com/ni-no/programming-basic/tree/master/01-FizzBuzz)
@@ -58,7 +59,6 @@ HandoutsとAnswersは言語ごとに分かれてる．
 `wscript ファイル名.js`で実行  
 もしくは  
 `cscript ファイル名.js`で実行
-
 
 #### 共通(node.js)
 `node ファイル名.js`で実行
